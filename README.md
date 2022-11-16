@@ -11,14 +11,14 @@ Materia: Fundamentos de Circuitos Eléctricos
 TAREA 2
 
 OBJETIVOS
-Comprender e Interpretar la notación científica y la notación de ingeniería de diversas cantidades y saber utilizar prefijos métricos en las diversas unidades. Interpretar la estructura básica de los átomos y establecer el concepto de carga eléctrica, definir los diferentes tipos de voltaje, corriente , resistencia , para poder analizar circuitos eléctricos básicos.
+Relaciónar la corriente, voltaje y resistencia mediante la ley de ohm y poder calcular las mismas .
+Definir los términos energía y potencia para poder hacer calculos con los mismo , incorrporando la ley de ohm  
 
 Objetivo específico
-Convertir las diferentes unidades con notación de ingeniería y utilizar prefijos métricos.
-Definir voltaje, corriente y resistencia y analizar sus características
-Reconocer los diferentes tipos de resistencias y voltajes existen.
-Realizar mediciones de circuito básicos
-
+* Calcular la corriente , la resistencia y el voltaje en un circuito
+* Definir y comprender la ley de ohm
+* Entender que es la potencia y energia y relacionarla con los circuitos electricos. 
+* Seleccionar adecuadamente resistores con base en consideraciones de potencia
 # MARCO TEÓRICO
 
 ![image](https://user-images.githubusercontent.com/116813974/202304973-332e082b-c54b-45c5-a189-a5bf678c727a.png)
@@ -373,6 +373,8 @@ potencia perdida =100mW
 
 ![image](https://user-images.githubusercontent.com/116813974/202311197-948cf0c4-a280-4347-a3ee-b337250f7bc2.png)
 
+# CONCLUSIONES
+La ley de ohm es una de las mas basicas , pero importantes con resoecto a circuitos electricos el el cual tambien se puede anadir la ley de joule para obtener la potencia en los circuitos electricos
 
 # BIBLIOGRAFIA
 Educación, E. M. A. A. A.-. (2022, 10 abril). LEY DE OHM. https://www.tecnologiaypedagogia.net/2019/09/ley-de-ohm.html
