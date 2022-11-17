@@ -373,6 +373,10 @@ potencia perdida =100mW
 
 ![image](https://user-images.githubusercontent.com/116813974/202311197-948cf0c4-a280-4347-a3ee-b337250f7bc2.png)
 
+# VIDEO
+
+https://youtu.be/r0-hZnWRV8I
+
 # CONCLUSIONES
 La ley de ohm es una de las mas basicas , pero importantes con resoecto a circuitos electricos el el cual tambien se puede anadir la ley de joule para obtener la potencia en los circuitos electricos
 
